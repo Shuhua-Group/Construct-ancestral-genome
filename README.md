@@ -17,7 +17,7 @@ python3 construct_ancestral_genome.py \\ <br>Outputfile  \\ <br>     Proportion_
 
 ## Parameters:
 
-***Outputfile***: The output file for recording results.
+***Outputfile***: The output file for recording results of a constructed ancestral haplotype.
 
 ***Proportion_cutoff_of_haplotypes***: The lowest proportion of inferred ancestral haplotypes in all of the input files.
 
