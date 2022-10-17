@@ -2,6 +2,8 @@
 
 Construct the ancestral genome from the given population(s).
 
+https://github.com/Shuhua-Group/Construct-ancestral-genome
+
 https://github.com/zhangxx123456/Construct-ancestral-genome
 
 
