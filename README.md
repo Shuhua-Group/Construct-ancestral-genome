@@ -19,9 +19,9 @@ python3 construct_ancestral_genome.py \\ <br>Outputfile  \\ <br>     Proportion_
 
 ***Outputfile***: The output file for recording results of a constructed ancestral haplotype.
 
-***Proportion_cutoff_of_haplotypes***: The lowest proportion of inferred ancestral haplotypes in all of the input files.
+***Proportion_cutoff_of_haplotypes***: The lowest proportion of inferred ancestral haplotypes in all of the input files. Range from 0.0-1.0.
 
-***Recombination_distance***:  If the selected haplotype was extended to the given length, it will occur a recombination event.
+***Recombination_distance***:  If the selected haplotype was extended to the given length, it will occur a recombination event. The unit of parameter is basepair(bp).
 
 ***Inputfiles***: One file or multiple files are allowed. All of the input files must have the completely consistent bi-allelic variants. '0' means the reference allele was selected to construct ancestral genomes. '1' means the alternative allele was selected to construct ancestral genomes. '.' means the allele was selected to construct ancestral genomes.
 
