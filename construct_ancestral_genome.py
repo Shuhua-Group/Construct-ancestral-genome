@@ -41,7 +41,6 @@ def judge( li ):
 	for i in range( len(li) ):
 		if li[i] != '.':
 			kl += 1
-	#print( '%.6f'%(float(kl) / len(li) ) )
 	if cutoff_freq <= float(kl) / len(li):
 		return 'ok'
 	else:
