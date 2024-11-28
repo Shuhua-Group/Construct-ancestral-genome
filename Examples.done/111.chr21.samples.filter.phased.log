@@ -1,0 +1,32 @@
+PLINK v1.90b6.24 64-bit (6 Jun 2021)
+Options in effect:
+  --cm-map 103.genetic_map_chr21_combined_b38.txt 21
+  --double-id
+  --make-bed
+  --out 111.chr21.samples.filter.phased
+  --vcf Test.dataset.chr21.vcf.gz
+
+Hostname: clc073
+Working directory: /home/zhangxiaoxi/Construct-ancestral-genome/Examples.done
+Start time: Thu Nov  7 19:31:40 2024
+
+Random number seed: 1730979100
+385389 MB RAM detected; reserving 192694 MB for main workspace.
+--vcf: 111.chr21.samples.filter.phased-temporary.bed +
+111.chr21.samples.filter.phased-temporary.bim +
+111.chr21.samples.filter.phased-temporary.fam written.
+107519 variants loaded from .bim file.
+25 people (0 males, 0 females, 25 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to 111.chr21.samples.filter.phased.nosex .
+--cm-map: 1 chromosome updated.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 25 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is exactly 1.
+107519 variants and 25 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to 111.chr21.samples.filter.phased.bed +
+111.chr21.samples.filter.phased.bim + 111.chr21.samples.filter.phased.fam ...
+done.
+
+End time: Thu Nov  7 19:31:40 2024

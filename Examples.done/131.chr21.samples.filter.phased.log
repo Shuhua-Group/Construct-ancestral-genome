@@ -1,0 +1,27 @@
+PLINK v2.00a3.6LM AVX2 Intel (14 Aug 2022)
+Options in effect:
+  --chr 21
+  --double-id
+  --export haps ref-first
+  --out 131.chr21.samples.filter.phased
+  --vcf Test.dataset.chr21.vcf.gz
+
+Hostname: clc073
+Working directory: /home/zhangxiaoxi/Construct-ancestral-genome/Examples.done
+Start time: Thu Nov  7 19:34:24 2024
+
+Random number seed: 1730979264
+385389 MiB RAM detected; reserving 192694 MiB for main workspace.
+Using up to 192 threads (change this with --threads).
+--vcf: 107519 variants scanned.
+--vcf: 131.chr21.samples.filter.phased-temporary.pgen +
+131.chr21.samples.filter.phased-temporary.pvar.zst +
+131.chr21.samples.filter.phased-temporary.psam written.
+25 samples (0 females, 0 males, 25 ambiguous; 25 founders) loaded from
+131.chr21.samples.filter.phased-temporary.psam.
+107519 variants loaded from 131.chr21.samples.filter.phased-temporary.pvar.zst.
+Note: No phenotype data present.
+Writing 131.chr21.samples.filter.phased.haps ... done.
+Writing 131.chr21.samples.filter.phased.sample ... done.
+
+End time: Thu Nov  7 19:34:24 2024
