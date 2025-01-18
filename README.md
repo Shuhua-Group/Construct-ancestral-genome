@@ -34,6 +34,7 @@ sh 000.run.pipeline.sh
 
 ### Citation
 If you use the Construct-ancestral-genome in your research work, please cite the following papers: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;[Protocol for reconstructing ancestral genomes from present-day samples by applying local ancestry inference](https://doi.org/10.1016/j.xpro.2024.103580) (*STAR Protocols*, 2025)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&#8226;&nbsp;[Reconstructing the ancestral gene pool to uncover the origins and genetic links of Hmong-Mien speakers](https://doi.org/10.1186/s12915-024-01838-9) (*BMC Biology*, 2024)<br><br><br>
 
 ---
